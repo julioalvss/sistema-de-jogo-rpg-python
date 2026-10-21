@@ -7,3 +7,4 @@
 ## Funcionalidades:
 - **Sistema de inimigos aleatórios.**
 - **Sistema de cura.**
+- **Sistema de XP.**
